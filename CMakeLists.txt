@@ -3,6 +3,5 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(untitled main.cpp
-        Calculator.cpp
-        Calculator.h)
+add_executable(untitled
+        main.cpp)
